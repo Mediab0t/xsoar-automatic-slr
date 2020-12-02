@@ -1,3 +1,9 @@
 # .github specifics
 .github
 .github/
+.idea/
+.idea
+/Integrations/PaloAltoNetworksAutomaticSLRCommunity/demistomock.py
+/Integrations/PaloAltoNetworksAutomaticSLRCommunity/CommonServerPython.py
+/Integrations/PaloAltoNetworksAutomaticSLRCommunity/Pipfile
+/Integrations/PaloAltoNetworksAutomaticSLRCommunity/Pipfile.lock
